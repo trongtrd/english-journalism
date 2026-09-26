@@ -5,7 +5,7 @@ Tất cả input là hư cấu, có nhãn và không dùng để dẫn chứng v
 - inputs/01-paragraph.md, 02-structure.md, 03-evidence.md: bộ pilot ban đầu.
 - inputs/long-draft.md: bài dài mới ở vòng v0.1.3; không đưa cho task xây ví dụ.
 - expectations.md: oracle dữ kiện của ba ca pilot, dành cho reviewer, không đưa vào task viết.
-- v013/old/: đầu ra skill v0.1.2; v013/baseline-skill/: đúng runtime cũ để tham khảo/replay, không phải skill cần cài thêm.
+- v013/old/: đầu ra skill v0.1.2; v013/baseline-skill/: bản tham khảo của runtime cũ, đã lược bỏ ghi chú nguồn phát triển; không còn là bản lưu nguyên trạng để tái lập chính xác, không phải skill cần cài thêm.
 - v013/new/: đầu ra ứng viên v0.1.3 trước sửa theo judge, có lỗi đã ghi nhận.
 - v013/retest/: đầu ra sau khi làm rõ kiểm nguồn và chú thích; cùng task có lịch sử, không phải lượt chấm độc lập.
 

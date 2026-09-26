@@ -6,4 +6,4 @@ R: Both correct the arithmetic, remove fabricated testimony with disclosure, qua
 
 All 19 before/after pairs match their source texts or explicit omission markers. This mechanical result does not certify that each explanation is equally useful. No example-builder access to the new draft was authorized. Preserve these first results; do not run until the new condition wins.
 
-Provisional acceptance is justified by faithful reusable contrastive examples, better retrieval and no material regression in the tested cases. It does not demonstrate that the new skill is consistently better or more recognizably Tatarski-like. User preference remains pending.
+Provisional acceptance is justified by faithful reusable contrastive examples, better retrieval and no material regression in the tested cases. It does not demonstrate that the new skill is consistently better or more stylistically distinctive. User preference remains pending.

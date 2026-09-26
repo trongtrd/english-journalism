@@ -117,9 +117,9 @@
     }
   ],
   "excludes": [
-    "article archive",
-    "intermediate builder candidates",
-    "local account paths and task coordination logs",
-    "installed dao/yao helper packages"
-  ]
+    "intermediate build files",
+    "machine-specific paths",
+    "helper packages"
+  ],
+  "note": "Historical snapshot of initial packaging; not a current integrity manifest."
 }

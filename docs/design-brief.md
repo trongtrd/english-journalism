@@ -6,7 +6,7 @@ Ngày: 26/09/2026. Đây là đầu vào đã chốt cho giai đoạn yao-meta-s
 
 ## Mục tiêu gốc
 
-Giúp người dùng chuyển bản nháp English về chính sách/kinh tế Việt Nam thành bài newsletter dễ đọc, gần giọng Michael Tatarski trong Vietnam Weekly, đồng thời hiểu các lựa chọn biên tập để tự viết tốt hơn.
+Giúp người dùng chuyển bản nháp English về chính sách/kinh tế Việt Nam thành bài newsletter dễ đọc, có giọng báo chí rõ ràng, giàu giải thích và hoài nghi có căn cứ, đồng thời hiểu các lựa chọn biên tập để tự viết tốt hơn.
 
 ## Người dùng, hoàn cảnh và định hướng
 

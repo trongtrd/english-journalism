@@ -2,7 +2,7 @@
 
 ## Lịch sử ngắn
 
-v0.1.2 có ba ca giả định và hai validator cấu trúc đạt. Baseline no-skill chạy trước with-skill trong cùng task, nên so sánh có ảnh hưởng lịch sử. Vòng VnExpress sau đó dùng hai task Sol High mới, cùng ba đoạn tối đa 45 từ và một task chấm ẩn nhãn: có khác biệt nhỏ về diễn đạt, chưa chứng minh giọng xuyên suốt. Nội dung báo VnExpress không được sao chép vào bản repository này.
+v0.1.2 có ba ca giả định và hai validator cấu trúc đạt. Baseline no-skill chạy trước with-skill trong cùng task, nên so sánh có ảnh hưởng lịch sử. Một vòng thử trên các trích đoạn ngắn sau đó dùng hai task Sol High mới, cùng ba đoạn tối đa 45 từ và một task chấm ẩn nhãn: có khác biệt nhỏ về diễn đạt, chưa chứng minh giọng xuyên suốt.
 
 ## Vòng v0.1.3
 
