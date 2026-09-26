@@ -1,0 +1,20 @@
+interface:
+  display_name: "English Journalism"
+  short_description: "Edit Vietnam policy writing with evidence and voice"
+  default_prompt: "Use $english-journalism to edit this English newsletter draft and explain the main changes in Vietnamese."
+compatibility:
+  canonical_format: "agent-skills"
+  adapter_targets:
+    - "openai"
+  activation:
+    mode: "auto"
+    paths: []
+  execution:
+    context: "inline"
+    shell: "powershell"
+  trust:
+    source_tier: "local"
+    remote_inline_execution: "forbid"
+    remote_metadata_policy: "allow-metadata-only"
+  degradation:
+    openai: "Codex reads SKILL.md and agents/openai.yaml; this interface is Yao validation metadata."

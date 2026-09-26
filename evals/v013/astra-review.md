@@ -1,0 +1,9 @@
+# Astra review before receiving model judgement
+
+L: Both revisions keep material quantities, reimbursement mechanics, the unlinked totals, sample limits and the limited-round stance. Both substantially reorder the original. The old revision leads with practical constraints; the new revision leads with the published totals and what they cannot establish. Both are supported choices from the guide. New prose is shorter (334 versus 398 body words), but brevity alone is not superiority. A minor weakness in new L is that the training purpose loses the explicit 'officials said' attribution; this does not change the underlying declared purpose but is less precise.
+
+R: Both correct the arithmetic, remove fabricated testimony with disclosure, qualify survey evidence and retain expansion as the writer's preference. New R teaching note 3 repeats essentially the same sentence on both sides; its explanation refers to an adjacent qualification that the excerpt should have shown. Four other meaningful notes remain. Old R adds a recommendation to publish data inside the author's prose; moving that recommendation to verification notes would better respect the original stance boundary. Neither is a severe factual regression, but neither is flawless.
+
+All 19 before/after pairs match their source texts or explicit omission markers. This mechanical result does not certify that each explanation is equally useful. No example-builder access to the new draft was authorized. Preserve these first results; do not run until the new condition wins.
+
+Provisional acceptance is justified by faithful reusable contrastive examples, better retrieval and no material regression in the tested cases. It does not demonstrate that the new skill is consistently better or more recognizably Tatarski-like. User preference remains pending.

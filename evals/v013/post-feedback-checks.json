@@ -1,0 +1,24 @@
+{
+  "retest": [
+    {
+      "case": "L",
+      "body_words": 372,
+      "notes": 5,
+      "exact_excerpt_matches": true,
+      "changed_excerpt_not_identical": true
+    },
+    {
+      "case": "R",
+      "body_words": 164,
+      "notes": 5,
+      "exact_excerpt_matches": true,
+      "changed_excerpt_not_identical": true
+    }
+  ],
+  "runtime_matches_retested": true,
+  "dao_quality_check": "pass; exit 0",
+  "yao_validate_skill": "pass; failures=[], warnings=[]",
+  "human_preference": "pending",
+  "style_superiority": "not established",
+  "deployment": "provisional local"
+}

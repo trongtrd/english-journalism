@@ -1,0 +1,30 @@
+[
+  {
+    "condition": "old",
+    "case": "L",
+    "words": 398,
+    "notes": 5,
+    "excerpts_match": true
+  },
+  {
+    "condition": "old",
+    "case": "R",
+    "words": 174,
+    "notes": 5,
+    "excerpts_match": true
+  },
+  {
+    "condition": "new",
+    "case": "L",
+    "words": 334,
+    "notes": 4,
+    "excerpts_match": true
+  },
+  {
+    "condition": "new",
+    "case": "R",
+    "words": 152,
+    "notes": 5,
+    "excerpts_match": true
+  }
+]

@@ -1,0 +1,125 @@
+{
+  "version": "0.1.3-provisional",
+  "runtime_copied_unchanged": true,
+  "copied_files": [
+    {
+      "path": "SKILL.md",
+      "sha256": "f49ec6c011e16893b80dd023d8062a13d89b1d265f09a29ddb84f256c2f93901"
+    },
+    {
+      "path": "references/style-guide.md",
+      "sha256": "2c82ea9c63d50f79da697d5c83290e113854a05ef42cc0991abb1ff03694d578"
+    },
+    {
+      "path": "references/editing-examples.md",
+      "sha256": "280ab06d2e3c4a36b90c7e928cb17e57e2274763b50957e744a796ee63cf5d68"
+    },
+    {
+      "path": "agents/openai.yaml",
+      "sha256": "ae71148cd80331a32c79f22b18b139d045ee7ed91efe99e528091440cc4233c5"
+    },
+    {
+      "path": "agents/interface.yaml",
+      "sha256": "6bd9e411076482d583d154d226a9f2f9ecd9a0bb96624f4b7b723ca13b1f7051"
+    },
+    {
+      "path": "evals/inputs/01-paragraph.md",
+      "sha256": "683d532aa4dc0692bbbad1a48ff446eca52532680297f565d144d75c2c3896c8"
+    },
+    {
+      "path": "evals/inputs/02-structure.md",
+      "sha256": "cc8cef2034677b7775ad2e323bda252c8b6ec52fba71edfad22578ba9feac19d"
+    },
+    {
+      "path": "evals/inputs/03-evidence.md",
+      "sha256": "4874149a0812eed05cfc4ce09281fdf98f88454046627afce6449d2e6fe28782"
+    },
+    {
+      "path": "evals/inputs/long-draft.md",
+      "sha256": "28b859fcaf94fa9500416e38b8dba3403d9fc917b3f4e9b06479de0697235450"
+    },
+    {
+      "path": "evals/expectations.md",
+      "sha256": "03d5d53bd97dd10836e5f7b6fb0824405ce910ea827eb19fafdc2d2211772537"
+    },
+    {
+      "path": "evals/v013/old/L.md",
+      "sha256": "378f55e64c0b98793983a5f1f1d6812322f0e3c086d6223d5bc52355cceb0f08"
+    },
+    {
+      "path": "evals/v013/old/R.md",
+      "sha256": "7442e6c6632f6b88e8eab078d09dc98533a1e2991d1aa6bd1fb6131ecf825a56"
+    },
+    {
+      "path": "evals/v013/new/L.md",
+      "sha256": "0d1d9f608ecb54ab63a8cc2a179eb5b55613878a8ee8ed546b670ceee0c5e2de"
+    },
+    {
+      "path": "evals/v013/new/R.md",
+      "sha256": "1f97912defcb4752e74487d4b0c6bb4ed2e6949dac5fc2ee537cfd3449e384f9"
+    },
+    {
+      "path": "evals/v013/retest/L.md",
+      "sha256": "f843e413aadc25d0e68da0b48a5fbe8bbbf8e85e1f2a5676efc3ec7d2a3fd82c"
+    },
+    {
+      "path": "evals/v013/retest/R.md",
+      "sha256": "cd3a734114d22b2b707d998330d3a962c38e24525795ca48e97469e0d8fd8c85"
+    },
+    {
+      "path": "evals/v013/judgment.md",
+      "sha256": "99e0b7a721da13eed0afe4a375ce26deb1596e5217ccefa7fd19724f7a8a7d7d"
+    },
+    {
+      "path": "evals/v013/astra-review.md",
+      "sha256": "f436718e6e5cd72b3706ff6b0c3291fbc377a3bb2acd0e1d9b9784166f4ec39b"
+    },
+    {
+      "path": "evals/v013/excerpt-checks.json",
+      "sha256": "ac2f645370d19fe5df0496b74754ba606c28e1b755fdabec905b5c0c0a9198f7"
+    },
+    {
+      "path": "evals/v013/post-feedback-checks.json",
+      "sha256": "834ee9666614e5b4da66b7c99f43c67a7b68fd72a7febeeb01a1d5d6090261de"
+    },
+    {
+      "path": "evals/v013/baseline-skill/SKILL.md",
+      "sha256": "ca79c91d8050468df112ec7d6ea99560b00e46f338979552442a4b71c199e406"
+    },
+    {
+      "path": "evals/v013/baseline-skill/references/style-guide.md",
+      "sha256": "2c82ea9c63d50f79da697d5c83290e113854a05ef42cc0991abb1ff03694d578"
+    },
+    {
+      "path": "evals/v013/baseline-skill/references/editing-examples.md",
+      "sha256": "b5d940ca6ad0aa66afdb9b105b0a88c89bd4f9c1a5b72766764491836df71e35"
+    },
+    {
+      "path": "evals/v013/baseline-skill/agents/openai.yaml",
+      "sha256": "ae71148cd80331a32c79f22b18b139d045ee7ed91efe99e528091440cc4233c5"
+    },
+    {
+      "path": "evals/v013/baseline-skill/agents/interface.yaml",
+      "sha256": "6bd9e411076482d583d154d226a9f2f9ecd9a0bb96624f4b7b723ca13b1f7051"
+    },
+    {
+      "path": "reports/output-risk-profile.md",
+      "sha256": "55ef9d92c3cbe5b701971873af4be141978b8dbf257e99a48421be9bf16e7416"
+    },
+    {
+      "path": "reports/artifact-design-profile.md",
+      "sha256": "e36f5a00abf749d9d526355d906a5661333a318bef39cd135029edf7951eedbb",
+      "adaptation": "Overview filename made portable"
+    },
+    {
+      "path": "reports/prompt-quality-profile.md",
+      "sha256": "4ddb353d588620270426c128308501b98d0e8356927d3ed5112d3bb119005196"
+    }
+  ],
+  "excludes": [
+    "article archive",
+    "intermediate builder candidates",
+    "local account paths and task coordination logs",
+    "installed dao/yao helper packages"
+  ]
+}

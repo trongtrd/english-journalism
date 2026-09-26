@@ -1,0 +1,8 @@
+{
+  "runtime_matches_source": true,
+  "broken_markdown_links": [],
+  "private_path_or_token_pattern_hits": [],
+  "dao_quality_check": "PASS",
+  "yao_validate_skill": "PASS",
+  "note": "Pattern scan is limited, not a comprehensive secret scanner."
+}
